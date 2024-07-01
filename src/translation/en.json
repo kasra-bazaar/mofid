@@ -1,0 +1,43 @@
+{
+  "header": {
+    "nav": {
+      "product": "Product",
+      "features": "Features",
+      "marketplace": "Marketplace",
+      "company": "Company"
+    },
+    "language": {
+      "english": "English",
+      "persian": "Persian",
+      "placeholder": "select a language"
+    }
+  },
+  "practices": {
+    "title": "Mofid practices",
+    "description": "Mofid Securities is a privately owned investment advisory and a full service brokerage firm in Iran that was established in 1994. Mofid was one of the top 4 performers among Tehran Stock Exchange firms between 2010 and 2013."
+  },
+  "markets": {
+    "head": {
+      "selectCurrency": "Choose your currency",
+      "selectCurrencyDescription": "For obtaining all the coins market data related to your selected currency"
+    },
+    "list": {
+      "7d": "7d",
+      "24h": "24h",
+      "coin": "Coin",
+      "price": "Price",
+      "marketCap": "Market cap",
+      "totalVolume": "Total volume",
+      "circulatingSupply": "Circulating supply"
+    },
+    "footer": {
+      "next": "Next",
+      "prev": "Prev"
+    },
+    "skeleton": {
+      "noData": "There is not any data to show!",
+      "error": "Something went wrong!",
+      "retry": "Retry"
+    }
+  }
+}
